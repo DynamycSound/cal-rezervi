@@ -1,3 +1,14 @@
+# Cal.diy – Termi.rs Edition (opciono / u rezervi)
+
+> **STATUS (jul 2026):** Termi.rs (bivši Rezervi.rs) sada ima UGRAĐEN nativni
+> kalendar slobodnih termina u glavnom repou (`rezervi-waas`) - mušterije biraju
+> stvarne slobodne termine direktno na stranici. **Ovaj cal.diy fork zato NIJE
+> potreban za osnovni proizvod** i nije deployovan. Čuva se za napredne
+> slučajeve (timovi, Google Calendar sync itd.).
+>
+> Brend/domeni: rezervi.rs → **termi.rs**, cal.rezervi.rs → **cal.termi.rs**.
+> Uputstva ispod su i dalje tačna, samo zameni domen.
+
 # Cal.diy – Rezervi.rs Edition
 
 > White-label booking engine za Rezervi.rs WaaS
